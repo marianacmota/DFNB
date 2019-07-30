@@ -5,7 +5,7 @@ PURPOSE: Read Me Text file
 MODIFICATION LOG:
 Ver      Date        Author        Description
 -----   ----------   -----------   -------------------------------------------------------------------------------
-1.0     07/29/2019   JJAUSSI       1. Built this script for LDS BC IT 240
+1.0     06/27/2019   JJAUSSI       1. Built this script for LDS BC IT 240
 
 
 NOTES:
